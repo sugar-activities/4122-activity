@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Erase Clic 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.eraseClicActivity
+bundle_id = net.gcompris.eraseClicActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
